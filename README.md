@@ -1,4 +1,4 @@
-# Turkiye Aerodrome List
+# Index of Turkiye Aerodromes
 Detailed list of the ICAO defined aerodromes in Turkiye.
 
 It includes ICAO, IATA codes, names and types of the aerodromes.
