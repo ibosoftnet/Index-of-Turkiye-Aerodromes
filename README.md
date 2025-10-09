@@ -19,6 +19,6 @@ It includes AIP namings and codes of aerdormes at this sequence:
 * Use: Use of the aerodrome. S/N/P/M (S: Scheduled, N: Non-scheduled, P: Private, M: Military).
 
 ### Sources and Validity
-* AIRAC 2408
+* AIRAC 2511
 * Turkiye AIP AD 1
 * https://www.iata.org/en/publications/directories/code-search/
